@@ -8,7 +8,9 @@
 ##### Software Engineer / Multiplayer Developer
 
 Tech: C#, Unity, Lua, Node.js, SQLite
+
 Platform: Windows
+
 Summary: Multiplayer rocket physics simulation sandbox
 
 <img src="images/ksp2_launch.png?raw=true"/>
