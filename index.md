@@ -12,7 +12,7 @@
 - Platform: Windows, Xbox One GDK, Xbox Series X
 - Summary: Shoot space aliens
 
-<img src="images/halo_infinite_banner.png?raw=true"/>
+<img src="images/halo_infinite_banner.jpg?raw=true"/>
 
 ---
 #### [Kerbal Space Program 2](https://www.kerbalspaceprogram.com/game/kerbal-space-program-2/)
