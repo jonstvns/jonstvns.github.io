@@ -4,6 +4,17 @@
 
 ### Professional Work
 
+---
+#### [Halo Infinite](https://www.xbox.com/en-US/games/halo-infinite)
+##### Systems Software Engineer 
+
+- Tech: C++, C#,
+- Platform: Windows, Xbox One GDK, Xbox Series X
+- Summary: Shoot space aliens
+
+<img src="images/halo_infinite_banner.png?raw=true"/>
+
+---
 #### [Kerbal Space Program 2](https://www.kerbalspaceprogram.com/game/kerbal-space-program-2/)
 ##### Software Engineer / Multiplayer Developer
 
@@ -30,26 +41,6 @@
 <img src="images/wooly_menu.png?raw=true"/>
 
 <img src="images/wooly_gameplay.jpg?raw=true"/>
-
----
-#### [EmergeNYC (tech demo)](https://store.steampowered.com/app/461430/EmergeNYC/)
-##### Software Engineer / Multiplayer Developer
-
-- Tech: C#, Unity
-- Platform: Windows
-- Summary: Multiplayer emergency vehicle simulator
-
-<img src="images/emergenyc.png?raw=true"/>
-
----
-#### Ken
-##### Software Engineer
-
-- Tech: C#, Unity
-- Platform: Android
-- Summary: Multiplayer 3D kendo fighting game
-
-<img src="images/ken.png?raw=true"/>
 
 ---
 
