@@ -5,10 +5,25 @@
 ### Professional Work
 
 ---
+#### [Hytale](https://hytale.com/)
+##### Systems Software Engineer / Multiplayer Developer
+
+- Tech: C++
+- Platform: Desktop, Console, Mobile
+- Summary: A cozy block game for everyone
+
+<img src="images/hytale_concept.jpg?raw=true"/>
+
+<img src="images/hytale_underwater.jpg?raw=true"/>
+
+<img src="images/hytale_underground_jungle.jpg?raw=true"/>
+
+
+---
 #### [Halo Infinite](https://www.xbox.com/en-US/games/halo-infinite)
 ##### Systems Software Engineer 
 
-- Tech: C++, C#,
+- Tech: C++, C#
 - Platform: Windows, Xbox One GDK, Xbox Series X
 - Summary: Shoot space aliens
 
